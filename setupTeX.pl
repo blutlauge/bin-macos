@@ -1,4 +1,4 @@
-#!/opt/local/bin/perl -w #-d
+#!/usr/bin/env perl -w
 
 ###############################################################################
 # 
@@ -7,7 +7,7 @@
 #
 # Copyright 2014
 # Author: M. Schlienger
-# Contact: marc@schlienger-bw.de
+# Contact: marc@schlienger.net
 #
 ###############################################################################
 
