@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+[ $# -eq 7 ] && ~/bin/extMerge "$2" "$5"

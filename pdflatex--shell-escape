@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+/Library/TeX/texbin/pdflatex --shell-escape $1 $2 $3 $4
+

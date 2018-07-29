@@ -1,0 +1,7 @@
+# Files related to MacOs or Synology 
+._*
+.DS_Store
+Icon?
+.SynologyWorkingDirectory
+Thumbs.db
+
